@@ -24,11 +24,11 @@ The goal of this project was to analyze transactional data and segment the custo
 
 ### REPOSITORY CONTENTS:
 
-• rfm_analysis.ipynb: The Python script used to clean the raw data and calculate the RFM scores.
+• ecom_proj.py: The Python script used to clean the raw data and calculate the RFM scores.
 
-• rfm_ready_for_powerbi.csv: The clean dataset exported for visualization.
+• rfm4bi (1).csv: The clean dataset exported for visualization.
 
-• Customer_Segmentation_Dashboard.pbix: The original Power BI file.
+• E-Commerce_cust_segmentation_RFM.pbix: The original Power BI file.
 
-• Dashboard_Screenshot.png: A high-resolution export of the final interactive dashboard.<img width="1283" height="723" alt="Screenshot 2026-02-24 171706" src="https://github.com/user-attachments/assets/306904b8-6478-486f-ab57-0a7eca8773bc" />
+• Screenshot 2026-02-24 171706.png: A high-resolution export of the final interactive dashboard.<img width="1283" height="723" alt="Screenshot 2026-02-24 171706" src="https://github.com/user-attachments/assets/306904b8-6478-486f-ab57-0a7eca8773bc" />
 
