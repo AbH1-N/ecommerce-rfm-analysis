@@ -2,13 +2,13 @@
 
 ---
 
-### PROJECT OVERVIEW:
+### PROJECT OVERVIEW
 
 The goal of this project was to analyze transactional data and segment the customer base to optimize marketing strategies. By identifying high-value "Champions" and "At-Risk" buyers, businesses can allocate resources more efficiently and drive higher retention.
 
 ---
 
-### TOOLS & TECHNOLOGIES USED:
+### TOOLS & TECHNOLOGIES USED
 | Tools | Use |
 |---|---|
 | **Python (Pandas, NumPy)** | Data extraction, cleaning, and feature engineering |
@@ -18,7 +18,7 @@ The goal of this project was to analyze transactional data and segment the custo
 
 ---
 
-### KEY BUSINESS INSIGHTS:
+### KEY BUSINESS INSIGHTS
 
 • The "Champion" Impact: Visualized how a small percentage of top-tier customers drive a disproportionate amount of total revenue.
 
@@ -28,7 +28,7 @@ The goal of this project was to analyze transactional data and segment the custo
 
 ---
 
-### REPOSITORY CONTENTS:
+### REPOSITORY CONTENTS
 
 • ecom_proj.py: The Python script used to clean the raw data and calculate the RFM scores.
 
