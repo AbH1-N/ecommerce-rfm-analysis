@@ -1,18 +1,22 @@
 # E-COMMERCE CUSTOMER SEGMENTATION (RFM ANALYSIS)
 
+---
+
 ### PROJECT OVERVIEW:
 
 The goal of this project was to analyze transactional data and segment the customer base to optimize marketing strategies. By identifying high-value "Champions" and "At-Risk" buyers, businesses can allocate resources more efficiently and drive higher retention.
 
+---
+
 ### TOOLS & TECHNOLOGIES USED:
+| Tools | Use |
+|---|---|
+| **Python (Pandas, NumPy)** | Data extraction, cleaning, and feature engineering |
+| **Math/Statistics** | Calculated RFM (Recency, Frequency, Monetary) metrics |
+| **DAX** | Wrote logical expressions to categorize customers into distinct business segments |
+| **Power BI** | Designed an interactive dashboard to visualize revenue distribution and segment sizes |
 
-• Python (Pandas, NumPy): Data extraction, cleaning, and feature engineering.
-
-• Math/Statistics: Calculated RFM (Recency, Frequency, Monetary) metrics.
-
-• DAX: Wrote logical expressions to categorize customers into distinct business segments.
-
-• Power BI:Designed an interactive dashboard to visualize revenue distribution and segment sizes
+---
 
 ### KEY BUSINESS INSIGHTS:
 
@@ -21,6 +25,8 @@ The goal of this project was to analyze transactional data and segment the custo
 • At-Risk Identification: Flagged formerly active customers who are slipping away, representing a prime target for re-engagement campaigns.
 
 • Actionable Segmentation: Grouped the entire customer base into actionable buckets (Champions, Active Loyal, At-Risk, and Lost) rather than just looking at raw sales numbers.
+
+---
 
 ### REPOSITORY CONTENTS:
 
