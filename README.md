@@ -39,6 +39,7 @@ The goal of this project was to analyze transactional data and segment the custo
 ---
 
 ### DASHBOARD
-
-<img width="1283" height="723" alt="Screenshot 2026-02-24 171706" src="https://github.com/user-attachments/assets/306904b8-6478-486f-ab57-0a7eca8773bc" /> 
+| Dashboard Image |
+|---|
+| <img width="1283" height="723" alt="Screenshot 2026-02-24 171706" src="https://github.com/user-attachments/assets/306904b8-6478-486f-ab57-0a7eca8773bc" /> |
 
